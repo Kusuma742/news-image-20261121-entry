@@ -1,5 +1,11 @@
 # 21 November 2026 — The World in One Picture
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Kusuma742/news-image-20261121-entry/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Kusuma742/news-image-20261121-entry/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
+Built for the make.fun bounty [Sum up 21 November's world news in one image](https://make.fun/bounty/news-image-20261121).
+
 A single 1024x1024 image summing up Saturday 21 November 2026's world
 news, in the style of a newspaper front page. The date is the masthead;
 each story is one illustration panel with a short headline and caption.
